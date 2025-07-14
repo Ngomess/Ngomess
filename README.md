@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ngomess/Ngomess/output/snake.svg" alt="Snake animation" />
-
-###
